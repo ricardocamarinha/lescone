@@ -4,7 +4,7 @@
 
   <p><b>LeScone</b> is an online menu.</p>
 
-## 👉 Live Demo: <a href='https://lescone-blush.vercel.app/'>Live Demo</a>
+## 👉 Live Demo: <a href='https://lescone-omega.vercel.app/'>Live Demo</a>
 
 ### » Skills Used: HTML, CSS, SASS.
 
